@@ -133,6 +133,18 @@ a.link-to-book:hover {
 .btn.btn-primary:hover {
     background-color: #747474;
 }
+
+.btn.btn-second {
+    background-image: url(posizione.png);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+  /* put the height and width of your image here */
+    height: 100px;
+    width: 100px;
+    border: none;
+}
+
+
 .opening-time,
 .contact-adress {
     flex: 1;
