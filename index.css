@@ -139,8 +139,8 @@ a.link-to-book:hover {
     background-repeat: no-repeat;
     background-position: 50% 50%;
   /* put the height and width of your image here */
-    height: 100px;
-    width: 100px;
+    height: 50px;
+    width: 50px;
     border: none;
 }
 
